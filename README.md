@@ -161,6 +161,26 @@ Baholash tartibi:
 
 
 
+## Deadline
+
+| Boshlanishi  | Yakunlanishi | Bonus | Bonus uchun shart |
+|--------------|--------------|-------|-------------------|
+| 18.03.2024   | 21.03.2024 19:00 | 1 oylik server & grokking algorithms kitob | 80 =< ball |
+| 18.03.2024   | 25.03.2024 19:00 | grokking algorithms kitob | 90 =< ball |  
+| 18.03.2024   | 25.03.2024 19:00 | sertificate | 60 =< ball |
+
+
+## Loyiha yakunlandi
+
+| No | Talabalar | Ball | date | feedback
+|---|----------|-----|------|------|
+| 1 | Akbar Suyunov | |
+| 2 | Kadirov Xojimurod | |
+| 3 | Muhammadaziz Inayatov | |
+| 4 | Muhammadsodiq Toirov | |
+| 5 | Nurmuhammad Qosimov | |
+| 6 | Ulug'bek Norsoatov | |
+
 
 
 
