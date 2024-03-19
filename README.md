@@ -150,10 +150,14 @@ HTTP 410: Tanlangan vaqtda xona band bo'lganda
 ```
 Baholash tartibi:
 
-| No | Talablar | Max ball |
-|---|----------|----------|
-| 1 | loyiha funksional talablari | 50 |
-| 2 | 
+
+| No | Talablar | Max ball | info                                                                                                                |
+|---|----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| 1 | System functionality | 60  | Kerakli funksionallikni to'liq amalga oshirish. Xatolarni to'g'ri ko'rib chiqish va turli vaziyatni ko'rib chiqish. |
+| 2 | Code quality | 15  | Toza va tushunarli kod yozish. Standartlarga mos kelish. Best practices.                                           |
+| 3 | Documentation | 10  | CodeBase, Readme, Comments, Commit messages.                                                                         |
+| 4 | Testing | 10  | Har bir funksionallik uchun Unit testlar.                                                                            |
+| 5 | Performance | 5  | Xizmatning tezligi.                                                                                                  |
 
 
 
