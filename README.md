@@ -12,7 +12,7 @@ Impactt co-working markazi rezidentlariga majlis xonalarni oldindan oson band qi
 - GitHubda `private` repozitoriya yarating
 - Ishingizni bosqichma-bosqich `commit` qilib boring
 - GitHub repozitoriyaning `settings` qismidan `alihaqberdi` foydalanuvchisini `Collaborator` sifatida qo'shing.
-- **20-martga qadar loyihani yakunlab, `Pull Request` yaratib, `alihaqberdi` foydalanuvchisini `Reviewer` sifatida qo'shing.**
+- **25-martga qadar loyihani yakunlab, `Pull Request` yaratib, `alihaqberdi` foydalanuvchisini `Reviewer` sifatida qo'shing.**
 
 ---
 
